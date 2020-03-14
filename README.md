@@ -11,6 +11,6 @@ in improving the well-being of the population.
 
 
 
-the following link shows the charts: 
+the following link shows the interactive charts: 
 
 https://nbviewer.jupyter.org/github/Raghadd7/Data-Visualization/blob/master/data%20visualization%20SME.ipynb 
