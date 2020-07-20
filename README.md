@@ -1,5 +1,5 @@
 # Contributions of the Small and Medium-Sized Enterprises in the United States
-Economy growth, job creation and population health
+### Economy growth, job creation and population health
 
 
 Small and Medium-sized Enterprises (SMEs) make up the majority of businesses around the world.
