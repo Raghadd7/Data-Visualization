@@ -12,3 +12,8 @@ in improving the well-being of the population.
 
 
 For interactive charts, see [notebook viewer](https://nbviewer.jupyter.org/github/Raghadd7/Data-Visualization/blob/master/data%20visualization%20SME.ipynb)
+
+
+## License 
+ 
+ The contents of this repository are covered under the [MIT License].(https://github.com/Raghadd7/Data-Visualization/blob/master/LICENSE)
